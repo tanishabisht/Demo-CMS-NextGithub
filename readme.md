@@ -1,16 +1,28 @@
 # Demo - CMS
 
-## Instructions to run the application
-1. `nvm install v20.11.0`
-2. `nvm use v20.11.0`
-3. `npm install`
-4. `npm run dev`
+This is a Content Management System (CMS) built using Next.js. The application is deployed on GitHub, with blogs stored directly in the code directory.
 
-## Steps I took to build from scratch
-1. `npx create-next-app@latest`
+This project was created from scratch using Next.js. The command used to initialize the project was:
+```bash
+npx create-next-app@latest
+```
 
-We will be deploying our application in GitHub. And the blogs will be stored in the code directory itself. 
+## Getting Started
 
+Follow the instructions below to set up and run the application locally.
 
-## Tech Stacks
-`next.js` `github` 
+### Prerequisites
+
+Ensure you have `nvm` (Node Version Manager) installed on your system.
+
+### Installation Steps
+
+1. Install Node.js version 20.11.0 `nvm install v20.11.0`
+2. Use Node.js version 20.11.0 `nvm use v20.11.0`
+3. Install dependencies `npm install`
+3. Run the development server `npm run dev`
+
+## Tech Stack
+
+- **Next.js** - React framework for building web applications.
+- **GitHub** - For version control and deployment.
