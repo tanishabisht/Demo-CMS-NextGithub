@@ -2,7 +2,6 @@
 
 const nextConfig = {
     basePath: "/Demo-CMS-NextGithub",
-    output: "export",
     reactStrictMode: true,
 };
 
