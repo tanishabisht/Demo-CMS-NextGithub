@@ -18,7 +18,7 @@ in.
 4. Vulnus se Latreus
 5. Aptumque bis
 
-<img src='/images/img1.jpg' alt="post" />
+<img src='/Demo-CMS-NextGithub/images/img1.jpg' alt="post" />
 
 ## Turpius Aegides membris colat volentes fallere
 

@@ -3,7 +3,7 @@ import Link from 'next/link'
 export default function Post({ post }) {
   return (
     <div className='card'>
-      <img className='card-img' src={post.frontmatter.cover_image} alt='' />
+      <img className='card-img' src={`/Demo-CMS-NextGithub${post.frontmatter.cover_image}`} alt='' />
 
       <div className='card-content'>
         <div className='card-date'>Posted on {post.frontmatter.date}</div>

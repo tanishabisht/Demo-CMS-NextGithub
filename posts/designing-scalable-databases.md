@@ -10,7 +10,7 @@ nigro cornu genus duris linguae. Super hic deus ego adveniens nullumque Venerem
 equis aurem aliisque celare densis dextramque similis **post**: mihi rexerat;
 bis.
 
-<img src='/images/img1.jpg' alt="post" />
+<img src='/Demo-CMS-NextGithub/images/img1.jpg' alt="post" />
 
 1. Scinditur annos
 2. Talia verba
